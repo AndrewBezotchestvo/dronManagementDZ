@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\Drones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|f:\\unity\\drones\\assets\\scripts\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\droncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\droncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\resoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\baseuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\flagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\spawnbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\resoursepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resoursepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\spawnresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|F:\\Unity\\Drones\\assets\\scripts\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D34ADF1-B0B4-9EEA-1FB6-D4EB635126C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnBaseController.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\SpawnBaseController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SpawnBaseController.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\SpawnBaseController.cs",
+              "RelativeToolTip": "Assets\\scripts\\SpawnBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:44:50.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlagController.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\FlagController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FlagController.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\FlagController.cs",
+              "RelativeToolTip": "Assets\\scripts\\FlagController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:33:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseUIController.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\BaseUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BaseUIController.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\BaseUIController.cs",
+              "RelativeToolTip": "Assets\\scripts\\BaseUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:31:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourseController.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\ResourseController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResourseController.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\ResourseController.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:08:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DronController.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\DronController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DronController.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\DronController.cs",
+              "RelativeToolTip": "Assets\\scripts\\DronController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:43:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\BaseController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BaseController.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\BaseController.cs",
+              "RelativeToolTip": "Assets\\scripts\\BaseController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:53:52.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpawnResources.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\SpawnResources.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SpawnResources.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\SpawnResources.cs",
+              "RelativeToolTip": "Assets\\scripts\\SpawnResources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:22:58.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResoursePool.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\ResoursePool.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ResoursePool.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\ResoursePool.cs",
+              "RelativeToolTip": "Assets\\scripts\\ResoursePool.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:11:26.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "F:\\Unity\\Drones\\Assets\\scripts\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CameraMove.cs",
+              "ToolTip": "F:\\Unity\\Drones\\Assets\\scripts\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\scripts\\CameraMove.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:10:18.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
